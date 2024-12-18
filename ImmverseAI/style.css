@@ -1,0 +1,191 @@
+body {
+  background-image: url("S.jpg");
+  background-size: cover;
+}
+
+.fcard {
+  width: 65%;
+  border-radius: 1rem;
+  background-color: rgba(240, 248, 255, 0.295);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+
+}
+.grid-center {
+  display: grid;
+  place-items: center;
+}
+
+.logoD {
+  height: 1rem;
+  margin-right: 0.5rem;
+}
+.roboimg {
+  height: 5rem;
+  padding-bottom: 0%;
+  padding-left: 1.5rem;
+}
+.bckimg {
+  image-resolution: fit;
+}
+
+.thirdcard {
+  background-color: rgb(31, 31, 59);
+  border-radius: 1rem;
+  display: inline;
+}
+
+.cardtext {
+  color: aliceblue;
+}
+
+.card-text {
+  font-size: 12px;
+}
+
+.maincard {
+  margin-left: 1rem;
+  width: 50%;
+  /* margin-bottom: 40%; */
+  /* margin-top: 5%; */
+}
+.roboimg {
+  width: auto;
+  height: 3rem;
+}
+.card-title {
+  font-size: 30px;
+}
+.card-title {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+#expbtn {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+#getbtn {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 15px;
+  background-color: black;
+  color: aliceblue;
+  border-radius: 0.5rem;
+  border: none;
+}
+
+.helmetimg{
+  height: 350px;
+  width: 300px;
+  padding-left: 1rem;
+}
+.card-body{
+  display: flex;
+}
+
+.btn-text {
+  margin-left: 7rem;
+  color: white;
+  font-size: 18px;
+}
+.btn-outer{
+ width: 400px;
+ height: 70px;
+ background-color: rgba(240, 248, 255, 0.075);
+}
+.container{
+  display:flex;
+}
+
+.helmet{
+  /* margin-top: 5rem; */
+  margin-left: 8rem;
+}
+
+
+.call{
+  /* margin-left: 60%; */
+  /* padding: 5px 40px 5px 40px; */
+  height: 2.5rem;
+  width: 11rem;
+  background:linear-gradient(to right,rgb(247, 31, 200),rgb(164, 68, 233));
+  color: white;
+  border-radius:50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 1rem;
+  padding-left: 4rem;
+  font-size: 15px;
+}
+
+.middle{
+  width:16rem;
+  height:2.5rem;
+  background-color: rgba(236, 229, 229, 0.432);
+  border-radius:50px;
+  
+}
+.outerbtn{
+  height:5rem;
+  width: 23rem;
+  border-radius:50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 192, 203, 0.363);
+  border:solid;
+  border-width: 1.5px;
+  border-color:pink;
+  padding: 5px 5px 5px 5px;
+ margin-left: 7rem;
+ margin-bottom: 1rem;
+}
+
+.profile-images {
+  display: flex;
+  position: absolute;
+margin-top: 10px;
+  margin-left:4px ;
+  size: 2rem;
+}
+
+.profile-images img {
+  border: 2px solid #ffffff;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  
+}
+
+.plus-btn {
+  background-color: #6236ff;
+  color: white;
+  border: 2px solid white;
+  border-radius: 50%;
+  font-size: 18px;
+  text-align: center;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: -10px;
+}
+
+.neon{
+  height: 200px;
+  width: 200px;
+  margin-left: 5rem;
+  
+}
+
+.bottom{
+  height: 200px;
+  width: 90%;
+}
